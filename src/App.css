@@ -1,0 +1,47 @@
+*{
+  /* margin: auto;
+  padding: auto; */
+}
+
+body{
+  /* color:orange; */
+  font-family:Tahoma;
+ 
+
+}
+
+  h3{
+      /* TOP-RIGHT-BOTTOM-LEFT */
+  margin: -100px 0px 100px 300px;
+  font-size: larger;
+
+}
+header{
+  border:1px solid green;
+  padding:30px;
+  background-color: blueviolet;
+  height: 180px;
+  /* font-weight: bold; */
+  
+}
+.top-txt{
+font-weight: bold;
+color: white;
+margin-top: -320px;
+padding-left: 10px;
+text-transform: uppercase;
+font-style: italic;
+font-family: sans-serif;
+}
+.bottom-txt{
+  font-weight: bold;
+  color: white;
+  margin-top: 180px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: sans-serif;
+  }
+  .btn{
+	  width:7.1em;
+  }
