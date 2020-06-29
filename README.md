@@ -1,2 +1,1 @@
-# Team-work-project
-teamwork front-end repository
+Click the pix Generator button and input your text in both textfield.
